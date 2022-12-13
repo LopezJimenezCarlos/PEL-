@@ -121,7 +121,9 @@ public:
             return existe;
         }
         //Funcion de busqueda posicional
-
+        int posicion elemento(){
+            
+        }
         //Funcion de obtencion de dato por la cabeza
 
         //Funcion de obtencion de dato por la cola
